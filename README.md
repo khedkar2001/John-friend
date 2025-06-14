@@ -11,3 +11,7 @@ to the array and console.log it.
 Remove Admin: Remove the object where the profession is admin from the array. Console.log the changed array.
 
 Concatenate Array: Create another array with 3 objects similar to the ones in the given array but with different ids and parameters. Then concatenate these two arrays and console.log the result.
+
+
+Live site:-
+https://john-friend.netlify.app/
